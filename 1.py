@@ -4,3 +4,7 @@ def even(num):
     else:
         return False
 print(even(4))  # Output: True
+
+def print(message):
+    message = "Hello, World!"
+    print(message)
